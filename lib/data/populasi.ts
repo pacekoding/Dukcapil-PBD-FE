@@ -6,12 +6,12 @@ export const populasiData: Record<
   // PROVINSI PAPUA BARAT DAYA
   // =========================
   provinsi: [
-    { name: "Kota Sorong", oap: 82000, nonOap: 40000 },
-    { name: "Kabupaten Sorong", oap: 64000, nonOap: 28000 },
-    { name: "Kabupaten Sorong Selatan", oap: 45000, nonOap: 12000 },
-    { name: "Kabupaten Raja Ampat", oap: 38000, nonOap: 14000 },
-    { name: "Kabupaten Maybrat", oap: 31000, nonOap: 9000 },
-    { name: "Kabupaten Tambrauw", oap: 26000, nonOap: 8000 },
+    { name: "Kota Sorong", oap: 77487, nonOap: 209765 },
+    { name: "Kabupaten Sorong", oap: 54379, nonOap: 75290 },
+    { name: "Kabupaten Sorong Selatan", oap: 46834, nonOap: 10679 },
+    { name: "Kabupaten Raja Ampat", oap: 51777, nonOap: 21971 },
+    { name: "Kabupaten Maybrat", oap: 39310, nonOap: 7494 },
+    { name: "Kabupaten Tambrauw", oap: 18018, nonOap: 13370 },
   ],
 
   // ======================

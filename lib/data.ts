@@ -4,7 +4,7 @@ export const profilDinas = {
   provinsi: {
     slug: "provinsi",
     nama: "Dinas Dukcapil Provinsi Papua Barat Daya",
-    kepala: "Drs. Yohanes Mofu",
+    kepala: "Nikolas Asmuruf, SE",
     alamat: "Jl. Sarsay, Kota Sorong, Papua Barat Daya",
     deskripsi:
       "Dinas Kependudukan dan Pencatatan Sipil Provinsi Papua Barat Daya bertugas menyelenggarakan urusan administrasi kependudukan di tingkat provinsi.",
@@ -59,17 +59,4 @@ export const profilDinas = {
         "Menyediakan layanan kependudukan dan pencatatan sipil di Kabupaten Tambrauw.",
     },
   ],
-};
-
-export const populasiData: Record<
-  string,
-  { oap: number; nonOap: number }
-> = {
-  provinsi: { oap: 280000, nonOap: 150000 },
-  "kota-sorong": { oap: 82000, nonOap: 40000 },
-  "kabupaten-sorong": { oap: 64000, nonOap: 28000 },
-  "kabupaten-sorong-selatan": { oap: 45000, nonOap: 12000 },
-  "kabupaten-raja-ampat": { oap: 38000, nonOap: 14000 },
-  "kabupaten-maybrat": { oap: 31000, nonOap: 9000 },
-  "kabupaten-tambrauw": { oap: 26000, nonOap: 8000 },
 };
