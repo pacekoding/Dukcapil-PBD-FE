@@ -12,6 +12,12 @@
   --font-mono: var(--font-geist-mono);
 }
 
+@theme {
+  --color-dukcapil-primary: #1E3A8A;
+  --color-dukcapil-secondary: #FFFFFF;
+  --color-dukcapil-accent: #FBBF24;
+}
+
 @media (prefers-color-scheme: dark) {
   :root {
     --background: #0a0a0a;
